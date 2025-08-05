@@ -1,4 +1,4 @@
-# Project Name
+# DRE FE for Preline UI experiment
 
 ## First time setup and deployment
 
